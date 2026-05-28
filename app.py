@@ -7,3 +7,17 @@ if __name__ == "__main__":
 
 def multiply(a, b):
     return a * 
+  
+def add(a, b):²
+    return a + b
+
+if __name__ == "__madef add(a, b):
+    return a + b
+
+if __name__ == "__madef add(a, b):
+    return a + b
+
+if __name__ == "__madef add(a, b):
+    return a + b
+
+if __name__ == "__ma
